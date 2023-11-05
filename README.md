@@ -39,7 +39,7 @@ footer {
   padding: 20px;
   background-color: rgb(2, 2, 2);
   color: white;
-  height: 400px;
+  height: 450px;
   margin-top: 20px;
 } 
 
@@ -52,7 +52,7 @@ margin-top: 50px;
 
 
 div.img1 {
-margin-top: 200px;
+margin-top: 300px;
 
  
   
